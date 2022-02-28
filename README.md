@@ -1,5 +1,7 @@
+![THolmes_ATO2021_resize](https://user-images.githubusercontent.com/12778804/155916529-7727b1ef-63e7-4053-9651-6459247d6f10.jpg)
+
 ### Hi there 👋🏾
-- 🔭 I am currently a Developer Advocate working with [Argo CD](https://argoproj.github.io/cd//) at [Codefresh](https://codefresh.io/).
+- 🔭 I am a Developer Advocate working with [Argo CD](https://argoproj.github.io/cd//) at [Codefresh](https://codefresh.io/).
 - 🌱 I’m currently learning about all things GitOps, Argo, and forever learning Kubernetes 😭
 <!--
 **tracypholmes/tracypholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
