@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with Me
-<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a> -->
-[Twitter](https://twitter.com/tracypholmes) | [LinkedIn](https://www.linkedin.com/in/tracypholmes/) | [Blog](https://dev.to/tracypholmes)
-
-
-#### Conference Videos
+### Conference Videos
 
 My presentations (including any video and slides) can be found in my [All Things Advocacy](https://github.com/tracypholmes/all-things-advocacy) repo.
+
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Connect with Me
+<!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a> -->
+<a href="https://www.linkedin.com/in/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/linkedin.png" height="100" /></a> <a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/twitter.png" height="100" /></a>  <a href="https://dev.to/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/dev-rainbow.png" height="100" /></a>
+
+
