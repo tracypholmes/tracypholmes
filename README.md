@@ -23,6 +23,7 @@ My presentations (including any video and slides) can be found in my [All Things
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with GitOps and Argo CD](https://dev.to/codefreshio/getting-started-with-gitops-and-argo-cd-1j2f)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with Me
