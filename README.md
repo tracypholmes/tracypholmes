@@ -25,6 +25,7 @@ My presentations (including any video and slides) can be found in my [All Things
 <!-- BLOG-POST-LIST:START -->
 - [Terraform Mono Repo vs. Multi Repo: The Great Debate](https://dev.to/tracypholmes/terraform-mono-repo-vs-multi-repo-the-great-debate-1dkp)
 - [Getting Started with GitOps and Argo CD](https://dev.to/codefreshio/getting-started-with-gitops-and-argo-cd-1j2f)
+- [Blackish vs Austin Tech](https://dev.to/tracypholmes/blackish-vs-austin-tech-36ch)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with Me
