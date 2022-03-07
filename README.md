@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Conference Videos
 
-My presentations (including any video and slides) can be found in my [All Things Advocacy](https://github.com/tracypholmes/all-things-advocacy) repo.
+My presentations (including any video and slides) can be found in my [All Things Advocacy](https://github.com/tracypholmes/all-things-advocacy#all-things-advocacy) repo.
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
