@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 - 🔭 I am a Technical Community Advocate working with [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) at [Isovalent](https://isovalent.com/).
-- 🌱 I’m currently learning about all things N-Ops (where n = Git), Cilium, eBPF and forever learning Kubernetes 😭
+- 🌱 I’m currently learning about all things N-Ops (where currently n = Git), Cilium, eBPF and forever learning Kubernetes 😭
 <!--
 **tracypholmes/tracypholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
