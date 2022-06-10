@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My presentations (including any video and slides) can be found in my [All Things Advocacy](https://github.com/tracypholmes/all-things-advocacy#all-things-advocacy) repo.
 
-[CFP template](https://gist.github.com/tracypholmes/4f6b6171709d4f7077de5b2136bf411f) mentioned in DevDiscuss podcast S9:E5 
+[CFP template](https://gist.github.com/tracypholmes/4f6b6171709d4f7077de5b2136bf411f) mentioned in DevDiscuss podcast S9:E5.
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
