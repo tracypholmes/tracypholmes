@@ -23,6 +23,7 @@ My presentations (including any video and slides) can be found in my [All Things
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[On-Demand Talk] Redefining Your Programming Purpose](https://community.codenewbie.org/codeland2022/on-demand-talk-redefining-your-programming-purpose-5aid)
 - [GitOps Benefits and Considerations](https://dev.to/codefreshio/gitops-benefits-and-considerations-3je8)
 - [Terraform Mono Repo vs. Multi Repo: The Great Debate](https://dev.to/tracypholmes/terraform-mono-repo-vs-multi-repo-the-great-debate-1dkp)
 - [Getting Started with GitOps and Argo CD](https://dev.to/codefreshio/getting-started-with-gitops-and-argo-cd-1j2f)
