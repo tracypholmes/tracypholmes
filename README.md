@@ -30,9 +30,6 @@ My presentations (including any video and slides) can be found in my [All Things
 
 ### Connect with Me
 <!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a> -->
-<a href="https://www.linkedin.com/in/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/linkedin.png" height="100" /></a> 
-<a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/mastodon-purple.svg" height="100" /></a>  
-<a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/twitter.png" height="100" /></a>  
-<a href="https://dev.to/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/dev-rainbow.png" height="100" /></a>
+<a href="https://www.linkedin.com/in/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/linkedin.png" height="100" /></a> <a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/mastodon-purple.svg" height="100" /></a>  <a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/twitter.png" height="100" /></a>  <a href="https://dev.to/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/dev-rainbow.png" height="100" /></a>
 
 
