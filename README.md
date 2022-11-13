@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-- 🔭 I am a Technical Community Advocate working with [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) at [Isovalent](https://isovalent.com/).
+- 🔭 I am currently a Technical Community Advocate working with [Cilium](https://github.com/cilium/cilium) and [eBPF](https://www.ebpf.io/) at [Isovalent](https://isovalent.com/).
 - 🌱 I’m currently learning about all things N-Ops (where currently n = Git), Cilium, eBPF and forever learning Kubernetes 😭
 <!--
 **tracypholmes/tracypholmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,9 @@ My presentations (including any video and slides) can be found in my [All Things
 
 ### Connect with Me
 <!-- <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a> -->
-<a href="https://www.linkedin.com/in/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/linkedin.png" height="100" /></a> <a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/twitter.png" height="100" /></a>  <a href="https://dev.to/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/dev-rainbow.png" height="100" /></a>
+<a href="https://www.linkedin.com/in/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/linkedin.png" height="100" /></a> 
+<a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/mastodon-purple.svg" height="100" /></a>  
+<a href="https://twitter.com/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/twitter.png" height="100" /></a>  
+<a href="https://dev.to/tracypholmes" target="blank"><img align="center" src="https://github.com/tracypholmes/tracypholmes/blob/main/socials/dev-rainbow.png" height="100" /></a>
 
 
