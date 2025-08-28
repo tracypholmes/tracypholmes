@@ -25,6 +25,8 @@ My presentations (including any video and slides) can be found in my [All Things
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Authorization vs Authentication](https://zitadel.com/blog/authorization-vs-authentication)
+- [Building Secure Authorization: A Practical Guide to Token Management in Zitadel](https://zitadel.com/blog/token-management-in-zitadel)
 - [GitOps Benefits and Considerations](https://dev.to/codefreshio/gitops-benefits-and-considerations-3je8)
 - [Terraform Mono Repo vs. Multi Repo: The Great Debate](https://dev.to/tracypholmes/terraform-mono-repo-vs-multi-repo-the-great-debate-1dkp)
 - [Getting Started with GitOps and Argo CD](https://dev.to/codefreshio/getting-started-with-gitops-and-argo-cd-1j2f)
